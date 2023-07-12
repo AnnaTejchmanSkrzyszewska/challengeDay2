@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::before, ::after {
+    box-sizing: inherit;
+}
+
+body {
+    color: #cb92ff;
+    background-color:#fff;
+    font-family: 'Raleway', sans-serif;
+}
+
+@media (maxwidth: 600px){
+    body {
+        width: 100%;
+        float: none;
+        border:none;
+    }
+}

@@ -1,0 +1,15 @@
+.mainSection {
+    border: solid 2px #cb92ff;
+    margin: 20px;
+    padding: 10px;
+    line-height: 1,6em;
+    font-size: 16px;
+}
+
+.mainSection__paragraph {
+    background-image: url("https://example-flynerd-summer-of-code-2.my.canva.site/images/d7227f23b63667d58e0f9dc62bd33abf.jpg");
+    background-position: center center;
+    min-height:1000px;
+    min-width: 400px;
+    text-align:center;
+}
